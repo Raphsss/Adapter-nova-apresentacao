@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "problemaKM", "problemaKM.csproj", "{E92E3EB6-1782-4136-9A58-6B224FF307B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "solucaoKM", "..\solucaoKM\solucaoKM.csproj", "{80F74D47-2CF7-4F45-AFC9-7749DF4F1E93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E92E3EB6-1782-4136-9A58-6B224FF307B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E92E3EB6-1782-4136-9A58-6B224FF307B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E92E3EB6-1782-4136-9A58-6B224FF307B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E92E3EB6-1782-4136-9A58-6B224FF307B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80F74D47-2CF7-4F45-AFC9-7749DF4F1E93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80F74D47-2CF7-4F45-AFC9-7749DF4F1E93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80F74D47-2CF7-4F45-AFC9-7749DF4F1E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80F74D47-2CF7-4F45-AFC9-7749DF4F1E93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C13ADB13-708F-4F07-9363-FCD63C4A1FAD}
+	EndGlobalSection
+EndGlobal

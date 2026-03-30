@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\Documents\\Repos\\Adapter-nova-apresentacao\\problemaKM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80F74D47-2CF7-4F45-AFC9-7749DF4F1E93}|..\\solucaoKM\\solucaoKM.csproj|c:\\users\\administrador\\documents\\repos\\adapter-nova-apresentacao\\solucaokm\\metrosadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F74D47-2CF7-4F45-AFC9-7749DF4F1E93}|..\\solucaoKM\\solucaoKM.csproj|c:\\users\\administrador\\documents\\repos\\adapter-nova-apresentacao\\solucaokm\\milhasadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F74D47-2CF7-4F45-AFC9-7749DF4F1E93}|..\\solucaoKM\\solucaoKM.csproj|c:\\users\\administrador\\documents\\repos\\adapter-nova-apresentacao\\solucaokm\\sensormetros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F74D47-2CF7-4F45-AFC9-7749DF4F1E93}|..\\solucaoKM\\solucaoKM.csproj|c:\\users\\administrador\\documents\\repos\\adapter-nova-apresentacao\\solucaokm\\sensormilhas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F74D47-2CF7-4F45-AFC9-7749DF4F1E93}|..\\solucaoKM\\solucaoKM.csproj|c:\\users\\administrador\\documents\\repos\\adapter-nova-apresentacao\\solucaokm\\isensordistancia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E3EB6-1782-4136-9A58-6B224FF307B4}|problemaKM.csproj|c:\\users\\administrador\\documents\\repos\\adapter-nova-apresentacao\\problemakm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E3EB6-1782-4136-9A58-6B224FF307B4}|problemaKM.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E3EB6-1782-4136-9A58-6B224FF307B4}|problemaKM.csproj|c:\\users\\administrador\\documents\\repos\\adapter-nova-apresentacao\\problemakm\\isensordistancia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E3EB6-1782-4136-9A58-6B224FF307B4}|problemaKM.csproj|solutionrelative:isensordistancia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E3EB6-1782-4136-9A58-6B224FF307B4}|problemaKM.csproj|c:\\users\\administrador\\documents\\repos\\adapter-nova-apresentacao\\problemakm\\milhasadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E3EB6-1782-4136-9A58-6B224FF307B4}|problemaKM.csproj|solutionrelative:milhasadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E3EB6-1782-4136-9A58-6B224FF307B4}|problemaKM.csproj|c:\\users\\administrador\\documents\\repos\\adapter-nova-apresentacao\\problemakm\\sensormilhas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E3EB6-1782-4136-9A58-6B224FF307B4}|problemaKM.csproj|solutionrelative:sensormilhas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F74D47-2CF7-4F45-AFC9-7749DF4F1E93}|..\\solucaoKM\\solucaoKM.csproj|c:\\users\\administrador\\documents\\repos\\adapter-nova-apresentacao\\solucaokm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:764764211:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MetrosAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Repos\\Adapter-nova-apresentacao\\solucaoKM\\MetrosAdapter.cs",
+              "RelativeDocumentMoniker": "..\\solucaoKM\\MetrosAdapter.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\Repos\\Adapter-nova-apresentacao\\solucaoKM\\MetrosAdapter.cs",
+              "RelativeToolTip": "..\\solucaoKM\\MetrosAdapter.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T20:09:53.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SensorMetros.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Repos\\Adapter-nova-apresentacao\\solucaoKM\\SensorMetros.cs",
+              "RelativeDocumentMoniker": "..\\solucaoKM\\SensorMetros.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\Repos\\Adapter-nova-apresentacao\\solucaoKM\\SensorMetros.cs",
+              "RelativeToolTip": "..\\solucaoKM\\SensorMetros.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T20:09:03.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SensorMilhas.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Repos\\Adapter-nova-apresentacao\\solucaoKM\\SensorMilhas.cs",
+              "RelativeDocumentMoniker": "..\\solucaoKM\\SensorMilhas.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\Repos\\Adapter-nova-apresentacao\\solucaoKM\\SensorMilhas.cs",
+              "RelativeToolTip": "..\\solucaoKM\\SensorMilhas.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T20:06:40.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MilhasAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Repos\\Adapter-nova-apresentacao\\solucaoKM\\MilhasAdapter.cs",
+              "RelativeDocumentMoniker": "..\\solucaoKM\\MilhasAdapter.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\Repos\\Adapter-nova-apresentacao\\solucaoKM\\MilhasAdapter.cs",
+              "RelativeToolTip": "..\\solucaoKM\\MilhasAdapter.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T20:06:37.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISensorDistancia.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Repos\\Adapter-nova-apresentacao\\solucaoKM\\ISensorDistancia.cs",
+              "RelativeDocumentMoniker": "..\\solucaoKM\\ISensorDistancia.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\Repos\\Adapter-nova-apresentacao\\solucaoKM\\ISensorDistancia.cs",
+              "RelativeToolTip": "..\\solucaoKM\\ISensorDistancia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T20:06:34.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISensorDistancia.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Repos\\Adapter-nova-apresentacao\\problemaKM\\ISensorDistancia.cs",
+              "RelativeDocumentMoniker": "ISensorDistancia.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\Repos\\Adapter-nova-apresentacao\\problemaKM\\ISensorDistancia.cs",
+              "RelativeToolTip": "ISensorDistancia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T20:04:42.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MilhasAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Repos\\Adapter-nova-apresentacao\\problemaKM\\MilhasAdapter.cs",
+              "RelativeDocumentMoniker": "MilhasAdapter.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\Repos\\Adapter-nova-apresentacao\\problemaKM\\MilhasAdapter.cs",
+              "RelativeToolTip": "MilhasAdapter.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T20:03:31.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SensorMilhas.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Repos\\Adapter-nova-apresentacao\\problemaKM\\SensorMilhas.cs",
+              "RelativeDocumentMoniker": "SensorMilhas.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\Repos\\Adapter-nova-apresentacao\\problemaKM\\SensorMilhas.cs",
+              "RelativeToolTip": "SensorMilhas.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T20:03:21.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Repos\\Adapter-nova-apresentacao\\solucaoKM\\Program.cs",
+              "RelativeDocumentMoniker": "..\\solucaoKM\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\Repos\\Adapter-nova-apresentacao\\solucaoKM\\Program.cs",
+              "RelativeToolTip": "..\\solucaoKM\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T19:55:57.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Repos\\Adapter-nova-apresentacao\\problemaKM\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\Repos\\Adapter-nova-apresentacao\\problemaKM\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T19:55:34.113Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
