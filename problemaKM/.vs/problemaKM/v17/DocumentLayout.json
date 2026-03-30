@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Administrador\\Documents\\Repos\\Adapter-nova-apresentacao\\problemaKM\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{40FA6CB0-1D4F-4D4B-BE1D-63E8E17F5036}|..\\NotificationAdapter\\NotificationAdapter.csproj|c:\\users\\administrador\\documents\\repos\\adapter-nova-apresentacao\\notificationadapter\\sms_service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40FA6CB0-1D4F-4D4B-BE1D-63E8E17F5036}|..\\NotificationAdapter\\NotificationAdapter.csproj|c:\\users\\administrador\\documents\\repos\\adapter-nova-apresentacao\\notificationadapter\\sms_adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40FA6CB0-1D4F-4D4B-BE1D-63E8E17F5036}|..\\NotificationAdapter\\NotificationAdapter.csproj|c:\\users\\administrador\\documents\\repos\\adapter-nova-apresentacao\\notificationadapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40FA6CB0-1D4F-4D4B-BE1D-63E8E17F5036}|..\\NotificationAdapter\\NotificationAdapter.csproj|c:\\users\\administrador\\documents\\repos\\adapter-nova-apresentacao\\notificationadapter\\inotificadoremail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{80F74D47-2CF7-4F45-AFC9-7749DF4F1E93}|..\\solucaoKM\\solucaoKM.csproj|c:\\users\\administrador\\documents\\repos\\adapter-nova-apresentacao\\solucaokm\\metrosadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -44,7 +56,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -52,20 +64,72 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SMS_Adapter.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Repos\\Adapter-nova-apresentacao\\NotificationAdapter\\SMS_Adapter.cs",
+              "RelativeDocumentMoniker": "..\\NotificationAdapter\\SMS_Adapter.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\Repos\\Adapter-nova-apresentacao\\NotificationAdapter\\SMS_Adapter.cs",
+              "RelativeToolTip": "..\\NotificationAdapter\\SMS_Adapter.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T20:42:47.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SMS_Service.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Repos\\Adapter-nova-apresentacao\\NotificationAdapter\\SMS_Service.cs",
+              "RelativeDocumentMoniker": "..\\NotificationAdapter\\SMS_Service.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\Repos\\Adapter-nova-apresentacao\\NotificationAdapter\\SMS_Service.cs",
+              "RelativeToolTip": "..\\NotificationAdapter\\SMS_Service.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T20:38:57.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "INotificadorEmail.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Repos\\Adapter-nova-apresentacao\\NotificationAdapter\\INotificadorEmail.cs",
+              "RelativeDocumentMoniker": "..\\NotificationAdapter\\INotificadorEmail.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\Repos\\Adapter-nova-apresentacao\\NotificationAdapter\\INotificadorEmail.cs",
+              "RelativeToolTip": "..\\NotificationAdapter\\INotificadorEmail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T20:37:33.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Repos\\Adapter-nova-apresentacao\\NotificationAdapter\\Program.cs",
+              "RelativeDocumentMoniker": "..\\NotificationAdapter\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\Repos\\Adapter-nova-apresentacao\\NotificationAdapter\\Program.cs",
+              "RelativeToolTip": "..\\NotificationAdapter\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T20:35:24.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MetrosAdapter.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Repos\\Adapter-nova-apresentacao\\solucaoKM\\MetrosAdapter.cs",
               "RelativeDocumentMoniker": "..\\solucaoKM\\MetrosAdapter.cs",
               "ToolTip": "C:\\Users\\Administrador\\Documents\\Repos\\Adapter-nova-apresentacao\\solucaoKM\\MetrosAdapter.cs",
               "RelativeToolTip": "..\\solucaoKM\\MetrosAdapter.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-30T20:09:53.475Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "SensorMetros.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Repos\\Adapter-nova-apresentacao\\solucaoKM\\SensorMetros.cs",
               "RelativeDocumentMoniker": "..\\solucaoKM\\SensorMetros.cs",
@@ -73,12 +137,11 @@
               "RelativeToolTip": "..\\solucaoKM\\SensorMetros.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAxwBEAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T20:09:03.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T20:09:03.236Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "SensorMilhas.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Repos\\Adapter-nova-apresentacao\\solucaoKM\\SensorMilhas.cs",
               "RelativeDocumentMoniker": "..\\solucaoKM\\SensorMilhas.cs",
@@ -86,12 +149,11 @@
               "RelativeToolTip": "..\\solucaoKM\\SensorMilhas.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T20:06:40.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T20:06:40.629Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "MilhasAdapter.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Repos\\Adapter-nova-apresentacao\\solucaoKM\\MilhasAdapter.cs",
               "RelativeDocumentMoniker": "..\\solucaoKM\\MilhasAdapter.cs",
@@ -99,12 +161,11 @@
               "RelativeToolTip": "..\\solucaoKM\\MilhasAdapter.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T20:06:37.658Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T20:06:37.658Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "ISensorDistancia.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Repos\\Adapter-nova-apresentacao\\solucaoKM\\ISensorDistancia.cs",
               "RelativeDocumentMoniker": "..\\solucaoKM\\ISensorDistancia.cs",
@@ -112,12 +173,11 @@
               "RelativeToolTip": "..\\solucaoKM\\ISensorDistancia.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T20:06:34.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T20:06:34.913Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "ISensorDistancia.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Repos\\Adapter-nova-apresentacao\\problemaKM\\ISensorDistancia.cs",
               "RelativeDocumentMoniker": "ISensorDistancia.cs",
@@ -125,12 +185,11 @@
               "RelativeToolTip": "ISensorDistancia.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T20:04:42.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T20:04:42.771Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "MilhasAdapter.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Repos\\Adapter-nova-apresentacao\\problemaKM\\MilhasAdapter.cs",
               "RelativeDocumentMoniker": "MilhasAdapter.cs",
@@ -138,12 +197,11 @@
               "RelativeToolTip": "MilhasAdapter.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T20:03:31.136Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T20:03:31.136Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "SensorMilhas.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Repos\\Adapter-nova-apresentacao\\problemaKM\\SensorMilhas.cs",
               "RelativeDocumentMoniker": "SensorMilhas.cs",
@@ -151,12 +209,11 @@
               "RelativeToolTip": "SensorMilhas.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T20:03:21.581Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T20:03:21.581Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Repos\\Adapter-nova-apresentacao\\solucaoKM\\Program.cs",
               "RelativeDocumentMoniker": "..\\solucaoKM\\Program.cs",
@@ -164,12 +221,11 @@
               "RelativeToolTip": "..\\solucaoKM\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T19:55:57.265Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T19:55:57.265Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Repos\\Adapter-nova-apresentacao\\problemaKM\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -177,8 +233,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T19:55:34.113Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T19:55:34.113Z"
             }
           ]
         }

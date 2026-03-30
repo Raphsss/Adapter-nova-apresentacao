@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("solucaoKM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+245b2e419fd9be1afce3b77809ba0e34a3fed755")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b1ccfe42e03162770c664ed9678f6f8e7bff440")]
 [assembly: System.Reflection.AssemblyProductAttribute("solucaoKM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("solucaoKM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
