@@ -1,0 +1,15 @@
+C:\Users\Administrador\Documents\Repos\Adapter-nova-apresentacao\problemaKM\bin\Debug\net8.0\problemaKM.exe
+C:\Users\Administrador\Documents\Repos\Adapter-nova-apresentacao\problemaKM\bin\Debug\net8.0\problemaKM.deps.json
+C:\Users\Administrador\Documents\Repos\Adapter-nova-apresentacao\problemaKM\bin\Debug\net8.0\problemaKM.runtimeconfig.json
+C:\Users\Administrador\Documents\Repos\Adapter-nova-apresentacao\problemaKM\bin\Debug\net8.0\problemaKM.dll
+C:\Users\Administrador\Documents\Repos\Adapter-nova-apresentacao\problemaKM\bin\Debug\net8.0\problemaKM.pdb
+C:\Users\Administrador\Documents\Repos\Adapter-nova-apresentacao\problemaKM\obj\Debug\net8.0\problemaKM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\Repos\Adapter-nova-apresentacao\problemaKM\obj\Debug\net8.0\problemaKM.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Repos\Adapter-nova-apresentacao\problemaKM\obj\Debug\net8.0\problemaKM.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Repos\Adapter-nova-apresentacao\problemaKM\obj\Debug\net8.0\problemaKM.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Repos\Adapter-nova-apresentacao\problemaKM\obj\Debug\net8.0\problemaKM.sourcelink.json
+C:\Users\Administrador\Documents\Repos\Adapter-nova-apresentacao\problemaKM\obj\Debug\net8.0\problemaKM.dll
+C:\Users\Administrador\Documents\Repos\Adapter-nova-apresentacao\problemaKM\obj\Debug\net8.0\refint\problemaKM.dll
+C:\Users\Administrador\Documents\Repos\Adapter-nova-apresentacao\problemaKM\obj\Debug\net8.0\problemaKM.pdb
+C:\Users\Administrador\Documents\Repos\Adapter-nova-apresentacao\problemaKM\obj\Debug\net8.0\problemaKM.genruntimeconfig.cache
+C:\Users\Administrador\Documents\Repos\Adapter-nova-apresentacao\problemaKM\obj\Debug\net8.0\ref\problemaKM.dll

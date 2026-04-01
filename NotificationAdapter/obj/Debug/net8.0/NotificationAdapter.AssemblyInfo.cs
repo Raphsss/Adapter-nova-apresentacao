@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("problemaKM")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("NotificationAdapter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b1ccfe42e03162770c664ed9678f6f8e7bff440")]
-[assembly: System.Reflection.AssemblyProductAttribute("problemaKM")]
-[assembly: System.Reflection.AssemblyTitleAttribute("problemaKM")]
+[assembly: System.Reflection.AssemblyProductAttribute("NotificationAdapter")]
+[assembly: System.Reflection.AssemblyTitleAttribute("NotificationAdapter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

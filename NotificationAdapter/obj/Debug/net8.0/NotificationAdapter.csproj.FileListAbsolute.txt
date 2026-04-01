@@ -1,0 +1,15 @@
+C:\Users\Administrador\Documents\Repos\Adapter-nova-apresentacao\NotificationAdapter\bin\Debug\net8.0\NotificationAdapter.exe
+C:\Users\Administrador\Documents\Repos\Adapter-nova-apresentacao\NotificationAdapter\bin\Debug\net8.0\NotificationAdapter.deps.json
+C:\Users\Administrador\Documents\Repos\Adapter-nova-apresentacao\NotificationAdapter\bin\Debug\net8.0\NotificationAdapter.runtimeconfig.json
+C:\Users\Administrador\Documents\Repos\Adapter-nova-apresentacao\NotificationAdapter\bin\Debug\net8.0\NotificationAdapter.dll
+C:\Users\Administrador\Documents\Repos\Adapter-nova-apresentacao\NotificationAdapter\bin\Debug\net8.0\NotificationAdapter.pdb
+C:\Users\Administrador\Documents\Repos\Adapter-nova-apresentacao\NotificationAdapter\obj\Debug\net8.0\NotificationAdapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\Repos\Adapter-nova-apresentacao\NotificationAdapter\obj\Debug\net8.0\NotificationAdapter.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Repos\Adapter-nova-apresentacao\NotificationAdapter\obj\Debug\net8.0\NotificationAdapter.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Repos\Adapter-nova-apresentacao\NotificationAdapter\obj\Debug\net8.0\NotificationAdapter.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Repos\Adapter-nova-apresentacao\NotificationAdapter\obj\Debug\net8.0\NotificationAdapter.sourcelink.json
+C:\Users\Administrador\Documents\Repos\Adapter-nova-apresentacao\NotificationAdapter\obj\Debug\net8.0\NotificationAdapter.dll
+C:\Users\Administrador\Documents\Repos\Adapter-nova-apresentacao\NotificationAdapter\obj\Debug\net8.0\refint\NotificationAdapter.dll
+C:\Users\Administrador\Documents\Repos\Adapter-nova-apresentacao\NotificationAdapter\obj\Debug\net8.0\NotificationAdapter.pdb
+C:\Users\Administrador\Documents\Repos\Adapter-nova-apresentacao\NotificationAdapter\obj\Debug\net8.0\NotificationAdapter.genruntimeconfig.cache
+C:\Users\Administrador\Documents\Repos\Adapter-nova-apresentacao\NotificationAdapter\obj\Debug\net8.0\ref\NotificationAdapter.dll
